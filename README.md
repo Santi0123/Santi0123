@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 ¡Conóceme! 👨‍💻<br><br>¡Hola! Soy Santi, un programador de 20 años de Jaén, Andalucía. Apasionado por la tecnología y siempre listo para el próximo reto. Domino lenguajes como Java, JavaScript y Kotlin, y frameworks como React y Spring Boot. También manejo HTML, CSS y Pug, y utilizo Docker para gestionar mis entornos de desarrollo y Markdown para documentar mis proyectos de manera clara y profesional.<br><br>Me encanta crear proyectos innovadores y resolver problemas complejos. Aunque mi experiencia en ciberseguridad es aún incipiente, estoy motivado a profundizar en este campo y convertirlo en una parte integral de mi carrera.<br>¿Qué me hace destacar?<br><br>    🔥 Ganas de aprender: Siempre en busca de nuevos conocimientos y desafíos.<br>    🚀 Proactivo y creativo: Ideas frescas y soluciones efectivas.<br>    💡 Curioso y motivado: Me adapto rápido y siempre estoy al día.
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/santiago-fuentes-espinosa-9539a91b4) 
 
 # 💻 Tech Stack:
